@@ -58,7 +58,7 @@
    <Poisson_ratio> 0.483333 </Poisson_ratio>
 
    <Viscosity model="Newtonian" >
-     <Value> 250.0 </Value> <!-- dyne.s/cm^2 -->
+     <Value> 50.0 </Value> <!-- dyne.s/cm^2 -->
    </Viscosity>
     
     <Constitutive_model type="HolzapfelOgden">  <!-- MEAN OPTIMISED PARAMETERS FROM  -->
