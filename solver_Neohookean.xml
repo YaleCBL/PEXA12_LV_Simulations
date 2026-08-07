@@ -58,7 +58,7 @@
    <Poisson_ratio> 0.48 </Poisson_ratio>
    <Constitutive_model type="neoHookean"> 
       </Constitutive_model> 
-   <Dilational_penalty_model> ST91 </Dilational_penalty_model>
+   <Dilational_penalty_model> ST91 </Dilational_penalty_model> <!-- Penalty model in the strain energy density function -->
 
 
     <Output type="Spatial" >
